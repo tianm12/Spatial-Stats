@@ -1,2 +1,4 @@
 # Spatial-Stats
 Spatial Stats project on race and gender wage gap
+
+For as long as anyone can remember, there has always existed gender and racial inequality in American wages. That said, there are reasons as to why this discrepancy exists. Some argue that after controlling for type of job, industry, and educational attainment, the discrepancy between male and female wages is not so large after all. Others will rebuttal that the gap prevails even after adjustments and thus, needs to be resolved. On the other hand, there seems to be less debate surrounding whether or not there is a difference in wages for various racial groups—in other words, it is almost a consensus that there indeed exists discrepancies in income for various racial groups. This paper looks at the distribution of males, females, whites, blacks, and Asians, and how their income compare to population density as well as educational attainment.
