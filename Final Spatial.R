@@ -1,4 +1,4 @@
-# FINAL PROJECT
+# Spatial Stats Project
 
 library("tigris")
 library("spdep")
